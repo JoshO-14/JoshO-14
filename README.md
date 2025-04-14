@@ -1,6 +1,5 @@
 # 👋 Hello, I'm JoshO-14!
-🔭 I’m a 14 year old aspiring Software, Game, and AI developer diving into:
-
+🔭 I’m a 14 year old aspiring Software, Game, and AI developer.
 
 # 🌱 My Learning Path
 
