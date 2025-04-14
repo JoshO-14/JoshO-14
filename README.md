@@ -7,7 +7,7 @@
 - 🧠 Python (for scripting and AI)
 - 🎮 Unity & C# (for game development)
 - Git & Github (for version control)
-- Calculus & Physics (propel my game simulations and advancements in school!)
+- Calculus & Physics (propel my game simulations)
 - 💻 Web Dev & Apps
 
 # 🚀 Projects I'm proud of:
