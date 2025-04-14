@@ -15,19 +15,19 @@
 
 > More projects on the way!
 
-# 🎯 My Goals:
- -Creating and publishing my first game
- -Developing Python projects implementing AI and Machine Learning
- -Grow this Github into a professional developer portfolio
+## 🎯 My Goals:
+- Creating and publishing my first game
+- Developing Python projects implementing AI and Machine Learning
+- Grow this Github into a professional developer portfolio
 
 
 # 📫 How to reach me: 
 - Gmail: amazingjosh101@gmail.com
 
 # 🛠️ Tools I use:
-- Github
-- VS Code/ Visual Studio (For Python & C#)
-- Unity
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![C#](https://img.shields.io/badge/-CSharp-333?style=flat&logo=csharp)
 ![Unity](https://img.shields.io/badge/-Unity-333?style=flat&logo=unity)
-...
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)
