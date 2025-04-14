@@ -15,7 +15,7 @@
  -Leaning Java for Web and App Development
 
 # 🚀 Projects I'm proud of:
-- Autumn! Playlist Generator – Python playlist generator for selected artist using random/time module.
+- [Autumn! Playlist Generator] (https://github.com/JoshO-14/Playlist-Generator) – Python playlist generator for selected artist using random/time module.
 
 # 📫 How to reach me: 
 - Gmail: amazingjosh101@gmail.com
@@ -24,7 +24,6 @@
 - Github
 - VS Code/ Visual Studio (For Python & C#)
 - Unity
-- 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Unity](https://img.shields.io/badge/-Unity-333?style=flat&logo=unity)
 ...
