@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello, My name is Joshua Ogundare!
+🔭 I’m a 14 y/o aspiring software/game developer diving into:
+- 🧠 AI & Python
+- 🎮 Unity & C#
+- 💻 Web Dev & Apps
 
-<!--
-**JoshO-14/JoshO-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌱 My Learning Path
 
-Here are some ideas to get you started:
+ I'm currently: 
+- Learning Unity and implementing C# scripts
+- Discovering AI implementation into Python (and eventually into my games!)
+- Building small projects to develop and grow my skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Planning on:
+ -Leaning Java for Web and App Development
+
+# 🚀 Projects I'm proud of:
+- Autumn! Playlist Generator – Python playlist generator for selected artist using random/time module.
+
+# 📫 How to reach me: 
+- Gmail: amazingjosh101@gmail.com
+
+# 🛠️ Tools I use:
+- Github
+- VS Code/ Visual Studio (For Python & C#)
+- Unity
+- 
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Unity](https://img.shields.io/badge/-Unity-333?style=flat&logo=unity)
+...
