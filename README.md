@@ -1,13 +1,11 @@
 # 👋 Hello, I'm JoshO-14!
-🔭 I’m an aspiring Software, Game, and AI developer.
+🔭 I’m an aspiring Software and AI developer.
 
 # 🌱 My Learning Path
 
  I'm currently diving into: 
 - 🧠 Python (for scripting and AI)
-- 🎮 Unity & C# (for game development)
 - Git & Github (for version control)
-- Calculus & Physics (propel my game simulations)
 - 💻 Web Dev & Apps
 
 # 🚀 Projects I'm proud of:
@@ -16,7 +14,6 @@
 > More projects on the way!
 
 ## 🎯 My Goals:
-- Creating and publishing my first game
 - Developing Python projects implementing AI and Machine Learning
 - Grow this Github into a professional developer portfolio
 
